@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Content Workflow"
+  short_description: "Create brand social media content."
+  default_prompt: "Use $social-content-workflow to create Instagram posts, captions, and archived campaign folders for this brand."

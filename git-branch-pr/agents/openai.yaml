@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Branch PR"
+  short_description: "Branch-first Git workflow"
+  default_prompt: "Use $git-branch-pr to start a task branch for this work, then prepare a PR to the target branch when the changes are complete."

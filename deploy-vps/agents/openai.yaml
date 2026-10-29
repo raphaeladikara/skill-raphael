@@ -1,0 +1,3 @@
+display_name: Deploy VPS
+short_description: Deploy web app fixes to a VPS with a safe release path.
+default_prompt: Use deploy-vps to deploy the current web app fix to the configured VPS and verify production.

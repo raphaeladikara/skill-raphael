@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit Supabase"
+  short_description: "Safe Supabase schema and data edits"
+  default_prompt: "Use $edit-supabase to make a safe Supabase schema or data change."

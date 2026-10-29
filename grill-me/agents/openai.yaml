@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Relentless pre-work project interview"
+  default_prompt: "Use $grill-me to interview me before starting this project. Explore the codebase for anything you can answer yourself, then ask prioritized questions with your recommended answer for each."

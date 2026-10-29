@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edit Automations"
+  short_description: "Safely edit Codex automation TOML"
+  default_prompt: "Use $edit-automations to update Codex automation TOML safely."

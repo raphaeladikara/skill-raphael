@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Add Push All"
+  short_description: "Stage, commit, and push every local change"
+  default_prompt: "Use $git-add-push-all to git add ., commit, and push all current repository changes."
